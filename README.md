@@ -1,4 +1,4 @@
-# tendencias-centrais
+# Estatística Descritiva
 Foram respondidas diversas perguntas sobre os resultados de nota para cada disciplina do enem. Análise estatística de média, moda mediana, identificação de outliers com o método IQR e substituição de outliers, plot de frequência para análise de normalidade dos dados e box-plot para melhor visualização. 
 
 <hr>
